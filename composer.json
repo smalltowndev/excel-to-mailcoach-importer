@@ -1,0 +1,17 @@
+{
+    "name": "lushkant/excel-to-mailcoach-importer",
+    "description": "Imports Contacts from Excel sheet to Mailcoach list",
+    "license": "GPL v2 or later",
+    "authors": [
+        {
+            "name": "Krishna Kant Chourasiya",
+            "email": "lushkant@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "spatie/mailcoach-sdk-php": "^1.8",
+        "guzzlehttp/guzzle": "^7.9",
+        "vlucas/phpdotenv": "^5.6",
+        "phpoffice/phpspreadsheet": "^3.5"
+    }
+}
